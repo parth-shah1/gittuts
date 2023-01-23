@@ -1,4 +1,4 @@
 initial commit
 first commit on main
 second commit on main
-commit on first franch
+commit on first branch
